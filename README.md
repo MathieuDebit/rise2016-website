@@ -27,3 +27,6 @@ middleman
 ```
 middleman build
 ```
+
+---
+Made with ♥ by [Mathieu Débit](http://www.twitter.com/MathieuDebit).
