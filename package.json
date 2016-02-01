@@ -1,0 +1,22 @@
+{
+  "name": "middleman-react-boilerplate",
+  "description": "Basic React app built with Middleman framework",
+  "version": "1.0.0",
+  "author": "Mathieu Débit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuDebit/middleman-react-boilerplate.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}
