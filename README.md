@@ -1,19 +1,18 @@
-# middleman-react-boilerplate
+# rise2016-website
 
-Basic React app built with Middleman framework
+Website for the EYP's Rise 2016 event
 
 ## Getting started
 
-> You will need [NPM](https://nodejs.org/en/download) for Javascript dependencies, and the [Middleman framework](https://middlemanapp.com) to run the source code.
-Make sure to install and configure everything first.
+> You will need the [Middleman framework](https://middlemanapp.com) to run the source code.
+Make sure to install and configure it first.
 
 Clone the repo and install dependencies:
 
 ```
-git clone git@github.com:MathieuDebit/middleman-react-boilerplate.git
-cd middleman-react-boilerplate
+git clone git@github.com:MathieuDebit/rise2016-website.git
+cd rise2016-website
 bundle install
-npm install
 ```
 
 That's it! Everyting you have to know about how to work with a Middleman project is in the official documentation: [https://middlemanapp.com/basics/install/](https://middlemanapp.com/basics/install/).

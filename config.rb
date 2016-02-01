@@ -8,21 +8,6 @@ set :images_dir, 'images'
 
 activate :dotenv
 
-activate :react do |config|
-  config.harmony = true
-  config.strip_types = true
-end
-
-after_configuration do
-  react_path = File.dirname ::React::Source.bundled_path_for('react.js')
-  sprockets.append_path react_path
-end
-
-ignore 'javascripts/components/*.jsx'
-
-sprockets.append_path File.join root, 'node_modules'
-sprockets.append_path File.join root, 'bower_components'
-
 configure :development do
   activate :livereload
 end
