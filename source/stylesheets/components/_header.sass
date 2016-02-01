@@ -1,2 +1,53 @@
-#header h1
-  color: $gray
+#header
+  background: url('../images/header-bg.png')
+  background-repeat: no-repeat
+  background-size: contain
+  min-height: 100%
+  color: #fff
+  .container
+    display: flex
+    flex-direction: column
+    justify-content: space-between
+
+  .top_bar
+    padding: 20px 0
+    display: flex
+    justify-content: space-between
+    .logo img
+      height: 50px
+    .haut_patronage
+      line-height: 12px
+      font-size: 10px
+      text-align: center
+    .lang a
+      color: #fff
+      text-transform: uppercase
+      font-size: 12px
+      &:first-of-type
+        margin-right: 6px
+  .header-text
+    margin-top: 150px
+    h1, h2
+      text-transform: uppercase
+      text-align: center
+      font-weight: bold
+    h1
+      font-size: 60px
+      letter-spacing: 2px
+      margin-bottom: 15px
+    h2
+      margin-bottom: 25px
+      color: #fff
+    p
+      color: #000
+      font-size: 12px
+      text-align: justify
+    .exp
+      position: relative
+      bottom: -1px
+      font-size: .6em
+      line-height: .8em
+      vertical-align: super
+      text-decoration: none
+    .pull-right
+      margin-top: 20px
