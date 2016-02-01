@@ -20,6 +20,7 @@ end
 
 ignore 'javascripts/components/*.jsx'
 
+sprockets.append_path File.join root, 'node_modules'
 sprockets.append_path File.join root, 'bower_components'
 
 configure :development do
