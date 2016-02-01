@@ -10,6 +10,7 @@ gem 'sass-globbing', '~> 1.1.1'
 gem 'middleman-minify-html'
 gem 'middleman-dotenv'
 gem 'jquery-middleman', '~> 3.1', '>= 3.1.2'
+gem 'middleman-autoprefixer'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-bootstrap'

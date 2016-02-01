@@ -8,6 +8,8 @@ set :images_dir, 'images'
 
 activate :dotenv
 
+activate :autoprefixer
+
 configure :development do
   activate :livereload
 end
