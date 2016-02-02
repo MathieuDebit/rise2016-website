@@ -1,0 +1,49 @@
+@media (max-width: 510px)
+  .modal
+    text-align: center
+  .modal-dialog
+    display: inline-block
+    text-align: left
+    vertical-align: middle
+  .modal:before
+    display: inline-block
+    vertical-align: middle
+    content: " "
+    height: 100%
+.form-group
+  overflow: hidden
+.modal-content
+  background:
+    image: url("../images/bg-newsletter.jpg")
+    size: cover
+    position: top
+    repeat: no-repeat
+.modal-dialog
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translateX(-50%) translateY(-50%)!important
+.modal-title, .close
+  color: #fff
+.close
+  opacity: 0.7
+  &:hover, &:focus, &:active, &:visited
+    color: #fff
+.form-group span
+  margin-right: 20px
+@media (max-width: 768px)
+  .mobile-margin
+    margin-bottom: 15px
+@media (max-width: 510px)
+  .mobile-radio-block
+    display: block
+  .checkbox-inline+.checkbox-inline, .radio-inline+.radio-inline
+    margin-left: 0
+.response
+  color: #fff
+  text-shadow: 0 0 5px  rgba(#000, 0.4)
+  a
+    font-weight: bold
+    text-decoration: underline
+    &:hover
+      color: #fff
