@@ -6,6 +6,8 @@ $(document).ready(function() {
   $(document).on("scroll", onScroll);
 
   //smoothscroll
+  var scrollSpeed = 750;
+
   $('a[href^="#"]').on('click', function(e) {
     e.preventDefault();
     $(document).off("scroll");
@@ -18,11 +20,17 @@ $(document).ready(function() {
     $target = $(target);
     $('html, body').stop().animate({
       'scrollTop': $target.offset().top + 2
-    }, 500, 'swing', function() {
+    }, scrollSpeed, 'swing', function() {
       window.location.hash = target;
       $(document).on("scroll", onScroll);
     });
   });
+
+  $('#nav .logo').on('click', function(){
+    $('html,body').animate({
+        scrollTop: 0
+    }, scrollSpeed, 'swing');
+  })
 });
 
 function onScroll(event) {
