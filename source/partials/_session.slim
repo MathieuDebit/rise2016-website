@@ -1,18 +1,9 @@
 section#session
   .container
     h2 #{t('session.title')}
-
     .video.col-md-8.col-md-push-2
       iframe allowfullscreen="" frameborder="0" height="411" mozallowfullscreen="" src="https://player.vimeo.com/video/138131933?color=e7983e&byline=0&portrait=0" webkitallowfullscreen="" width="100%" 
 
     .clearfix
-    .president
-      .image.col-md-5.col-xs-12
-        img src='../images/president.png'
-
-      .content.col-md-7.col-xs-12
-        h3 Lorenzo Parruli
-
-        markdown: #{t('session.content')}
-
-  = partial 'partials/counters'
+    .content.col-md-6.col-xs-12.col-md-push-3
+      markdown: #{t('session.content')}
