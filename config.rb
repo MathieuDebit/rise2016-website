@@ -7,7 +7,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 activate :dotenv
-
+activate :i18n, :mount_at_root => false
 activate :autoprefixer
 
 configure :development do
