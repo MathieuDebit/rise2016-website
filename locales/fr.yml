@@ -2,7 +2,7 @@
 fr:
   header:
     title: La 82<span class="exp">e</span> Session Internationale
-    text: Français ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumdod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    text: Rennes International Session of the EYP ou RISE 2016 est la 82ème Session internationale du Parlement Européen des Jeunes. <br> Elle se déroulera du 14 au 23 juillet 2016 à Rennes, en Bretagne.
     newsletter: Inscrivez-vous à la newsletter
 
   nav:
@@ -12,12 +12,12 @@ fr:
 
   session:
     title: la session
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    content: "RISE 2016, la 4ème Session internationale que la France accueille et organise. Un tel événement est un <strong>cadre unique d’échange et de débats</strong> sur les problématiques européennes d’actualité. C’est une véritable simulation parlementaire qui aura lieu pendant ces 10 jours où plus de<strong> 300 jeunes</strong> venus de toute l’Europe pourront s’exprimer et débattre sur des sujets aussi variés que ceux traités au sein du Parlement Européen. <br> <br> Cet événement sera <strong>unique</strong> en son genre, de part son ampleur et son <strong>ouverture sur l’international</strong> mais aussi de par son thème décliné en plusieurs activités. C’est la <strong>diversité</strong> qui sera à l’honneur en juillet 2016. C’est ainsi que la 82ème session internationale ouvrira 25 % de ses places à des jeunes européens qui n’ont jamais participé aux événements du PEJ. Qu’ils soient jeunes professionnels ou étudiants, ces participants seront sélectionnés sur plusieurs critères fixés par l’équipe d’organisation et les comités nationaux du PEJ, dans l’espoir de réunir un public novateur et talentueux. Pour la première fois au PEJ, une session aura <strong>trois langues officielles</strong> : l’anglais, l’allemand et le français. Diversité culturelle, culinaire, politique, artistique, des parcours, etc… <br>Tout sera mis en place pour honorer le devise de l’Union Européenne “Unie dans la diversité”."
 
   counters:
     first: jours de débat
     second: nationalités
-    third: langues
+    third: langues officielles de travail
 
   partners:
     title: nos partenaires
@@ -35,7 +35,9 @@ fr:
       firstname: Prénom
     social: Retrouvez-nous sur les réseaux sociaux !
 
-  footer: Le PEJ-France est une association non-partisane d’éducation à la citoyenneté européenne, association loi 1901 d’intérêt général agréée Jeunesse et Éducation Populaire et Complémentaire de l’Enseignement public.
+  footer:
+    content: Le PEJ-France est une association non-partisane d’éducation à la citoyenneté européenne, association loi 1901 d’intérêt général agréée Jeunesse et Éducation Populaire et Complémentaire de l’Enseignement public.
+    button: Mentions légales
 
   modal:
     title: Restez informé !
