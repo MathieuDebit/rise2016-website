@@ -1,9 +1,10 @@
 section#partners
   .container
-    h2 Nos Partenaires
+    h2 #{t('partners.title')}
     .haut_patronage
       markdown:
-        Sous le Haut Patronage de <br> Monsieur **François HOLLANDE** <br> Président de la République
+        #{t('partners.patronage')}
+        
     ul.list-partners.col-md-8.col-md-push-2
       li: a href="#": img src="../images/partners/logo-commission-europeene.png"
       li: a href="#": img src="../images/partners/logo-parlement-europeen.png"

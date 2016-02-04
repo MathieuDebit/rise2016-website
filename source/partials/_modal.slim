@@ -3,7 +3,7 @@
     .modal-content
       .modal-header
         button.close data-dismiss="modal" type="button"  &times;
-        h4.modal-title Restez informé !
+        h4.modal-title #{t('modal.title')}
       .modal-body
         .container-fluid
           #mc_embed_signup.row
@@ -15,15 +15,15 @@
                     #mce-success-response.response style="display:none" 
               .form-group
                 .col-sm-6.col-xs-12
-                  input#mce-FNAME.form-control.mobile-margin name="FNAME" placeholder="Prénom" type="text" /
+                  input#mce-FNAME.form-control.mobile-margin name="FNAME" placeholder="#{t('contact.form.firstname')}" type="text" /
                 .col-sm-6.col-xs-12
-                  input#mce-LNAME.form-control name="LNAME" placeholder="Nom" type="text" /
+                  input#mce-LNAME.form-control name="LNAME" placeholder="#{t('contact.form.name')}" type="text" /
               .form-group
                 .col-sm-12.col-xs-12
-                  input#mce-EMAIL.form-control name="EMAIL" placeholder="Email" type="email" /
+                  input#mce-EMAIL.form-control name="EMAIL" placeholder="#{t('contact.form.email')}" type="email" /
               .form-group
                 .col-sm-12.col-xs-12
-                  span Langue de la newsletter :
+                  span #{t('modal.languages')} :
                   label.radio-inline.mobile-radio-block
                     input checked="checked" id="mce-group[7597]-7597-0" name="group[7597]" type="radio" value="1" /
                     | Français
@@ -37,4 +37,4 @@
                 .col-sm-12.col-xs-12
                   div style=("position: absolute; left: -5000px;") 
                     input name="b_3e58b0537460580167878546a_ad12ab9fce" tabindex="-1" type="text" value="" /
-                  input#mc-embedded-subscribe.btn.btn-primary.pull-right name="subscribe" type="submit" value="Valider" /
+                  input#mc-embedded-subscribe.btn.btn-primary.pull-right name="subscribe" type="submit" value="#{t('contact.form.validate')}" /

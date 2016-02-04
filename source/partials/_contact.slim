@@ -1,22 +1,22 @@
 section#contact
   .container
-    h2 contact
+    h2 #{t('contact.title')}
     
     .form.col-md-6.col-xs-12
       form        
         .form-group
-          input type="text" class="form-control" id="name" required="" placeholder="Nom"
+          input type="text" class="form-control" id="name" required="" placeholder="#{t('contact.form.name')}"
         
         .form-group
-          input type="email" class="form-control" id="email" required="" placeholder="E-mail"
+          input type="email" class="form-control" id="email" required="" placeholder="#{t('contact.form.email')}"
         
         .form-group
-          input type="text" class="form-control" id="subject" required="" placeholder="Sujet"
+          input type="text" class="form-control" id="subject" required="" placeholder="#{t('contact.form.subject')}"
         
         .form-group
-          textarea class="form-control" id="subject" required="" placeholder="Votre message" rows="7"
+          textarea class="form-control" id="subject" required="" placeholder="#{t('contact.form.message')}" rows="7"
 
-        button type="submit" class="btn btn-primary pull-right" Envoyer
+        button type="submit" class="btn btn-primary pull-right" #{t('contact.form.submit')}
 
     
     .infos.col-md-6.col-xs-12
@@ -27,7 +27,7 @@ section#contact
           img src="../images/logo-pej.png" alt=""
 
       .social
-        h3 Retrouvez-nous sur les réseaux sociaux !
+        h3 #{t('contact.social')}
         
         div
           img src="../images/facebook.png" alt=""
@@ -40,4 +40,4 @@ section#contact
           
           a.link href="https://www.facebook.com/ComiteGrandOuest" Comité Grand-Ouest
 
-        button.btn.btn-primary(data-toggle="modal", data-target="#myModal") Inscrivez-vous à la newsletter
+        button.btn.btn-primary(data-toggle="modal", data-target="#myModal") #{t('header.newsletter')}
