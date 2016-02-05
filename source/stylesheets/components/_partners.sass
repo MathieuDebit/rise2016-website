@@ -1,19 +1,36 @@
 #partners
+
   .haut_patronage
     margin-top: 30px
-  .list-partners
-    margin-top: 50px
-    display: flex
-    justify-content: space-around
-    align-items: center
-    li
-      display: inline-block
-      list-style: none
-      cursor: pointer
-      a
+
+  #partnersTab
+    margin: 7em 0
+
+    .nav-tabs
+      display: flex
+      flex-wrap: wrap
+      justify-content: center
+      border-right: 1px solid $orange
+      border-bottom: 0
+
+      li
+        display: inline-block
+        margin: 20px 15px
         filter: grayscale(100%)
         transition: filter 250ms ease-in-out
-        &:hover
+
+        &.active, &:hover
           filter: grayscale(0%)
-      img
-        height: 60px
+
+        a
+          border: 0
+          border-radius: 0
+
+          &:hover
+            background-color: transparent
+            cursor: pointer
+
+          img
+            height: 60px
+
+    .tab-content
