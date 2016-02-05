@@ -14,6 +14,9 @@ body
 section
   padding: 40px 0
 
+a
+  color: $orange
+
 h2
   font-size: 39px
   letter-spacing: 3px
@@ -21,7 +24,8 @@ h2
   text-transform: uppercase
   text-align: center
   font-weight: bold
-
+  @media(max-width:767px)
+    font-size: 22px
 .btn-primary
   border-color: darken($orange, 5%)
   background-color: $orange

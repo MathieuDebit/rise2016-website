@@ -1,3 +1,12 @@
 footer#footer
   .container
-    p #{t('footer')}
+    p #{t('footer.content')}
+    p: a href="/" data-target="#modal_mention" data-toggle="modal" type="button" #{t('footer.button')}
+#modal_mention.modal.fade aria-labelledby="modal_mentionLabel" role="dialog" tabindex="-1"
+  .modal-dialog role="document"
+    .modal-content
+      .modal-header
+        button.close aria-label="Close" data-dismiss="modal" type="button"
+          span aria-hidden="true"  &times;
+        h4#modal_mentionLabel.modal-title #{t('footer.button')}
+      .modal-body #{t('footer.modal_content')}
