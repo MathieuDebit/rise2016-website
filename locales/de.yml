@@ -57,7 +57,10 @@ de:
       firstname:
     social:
 
-  footer:
+    footer:
+      content:
+      button:
+      modal_content:
 
   modal:
     title:
