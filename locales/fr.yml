@@ -21,7 +21,7 @@ fr:
 
   partners:
     title: nos partenaires
-    patronage: Sous le Haut Patronage de <br> Monsieur **François HOLLANDE** <br> Président de la République
+    patronage: Sous le Haut Patronage de <br> Monsieur <strong>François HOLLANDE</strong> <br> Président de la République
 
   contact:
     title: contact
@@ -38,6 +38,7 @@ fr:
   footer:
     content: Le PEJ-France est une association non-partisane d’éducation à la citoyenneté européenne, association loi 1901 d’intérêt général agréée Jeunesse et Éducation Populaire et Complémentaire de l’Enseignement public.
     button: Mentions légales
+    modal_content: "<h3>Raison Sociale : </h3> <p>Le Comité Grand Ouest du Parlement Européen des Jeunes est une association loi 1901, enregistrée à la préfecture de Rennes en 2015, Numéro de SIRET : 812 489 144 00012</p><h3>Siège Social : </h3> <p> <strong>Comité Grand Ouest – PEJ France</strong> <br>10 Place du Parlement de Bretagne <br>35000 Rennes <br>Mail : <a href='mailto:comitegrandouest@pejfrance.org'>comitegrandouest@pejfrance.org</a> <br><strong>Directeurs de la publication :</strong> <br>Sugirthan Sivarajah & William Goyet</p><h3>Développement WEB : </h3> <p> Charles Prévôt <br>Léna Défay <br>Valentin Galmand <br>Mathieu Débit </p><p> <strong>Sécurité.</strong> L’accès aux données personnelles de chaque adhérent se fait au moyen d’un mot de passe individuel. Le PEJ-France est garant de la sécurité des données de ses membres et prend toutes précautions utiles afin de préserver la sécurité de ces données, et notamment d’empêcher qu’elles soient déformées, endommagées, ou que des tiers non autorisés y aient accès.</p><p>Conformément à la loi, le PEJ-France exclut toute utilisation commerciale ou politique des données traitées. Les données susceptibles de faire l’objet d’un traitement sont les données relatives à l’identité, la vie professionnelle et les centres d’intérêts (à l’exception des données telles que les origines raciales ou ethniques, les opinions politiques, philosophiques ou religieuses, l’appartenance syndicale, l’état de santé ou la vie sexuelle).</p><p>Droit d’accès et de rectification des données <br>Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée en 2004, vous bénéficiez d’un droit d’accès, de modification, de rectification et de suppression des données personnelles qui vous concernent. Vous pouvez exercer ce droit en vous adressant à : </p><p> <strong>Comité Grand Ouest – PEJ France</strong> <br>10 Place du Parlement de Bretagne <br>35000 Rennes <br>Mail : <a href='mailto:comitegrandouest@pejfrance.org'>comitegrandouest@pejfrance.org</a></p>"
 
   modal:
     title: Restez informé !
