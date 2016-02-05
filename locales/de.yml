@@ -22,6 +22,28 @@ de:
   partners:
     title:
     patronage:
+    tabs:
+      partner-1:
+        name:
+        description:
+      partner-2:
+        name:
+        description:
+      partner-3:
+        name:
+        description:
+      partner-4:
+        name:
+        description:
+      partner-5:
+        name:
+        description:
+      partner-6:
+        name:
+        description:
+      partner-7:
+        name:
+        description:
 
   contact:
     title:
