@@ -21,12 +21,7 @@ fr:
 
   partners:
     title: nos partenaires
-<<<<<<< HEAD
-    patronage: |
-      Sous le Haut Patronage de <br> Monsieur <strong>François HOLLANDE</strong><br> Président de la République
-=======
     patronage: Sous le Haut Patronage de <br> Monsieur <strong>François HOLLANDE</strong> <br> Président de la République
->>>>>>> 42f2cac97050ec9c64f54a69b74ba2827217006d
 
   contact:
     title: contact
