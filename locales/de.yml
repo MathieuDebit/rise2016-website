@@ -13,6 +13,7 @@ de:
   session:
     title: Die Sitzung
     content: "RISE 2016 ist die vierte, die in Frankreich ausgerichtet wird. Als Vorzeigeprojekt des Europäischen Jugendparlaments ermöglicht eine Internationale Sitzung über 300 Jugendlichen aus den 39 Ländern des EYP-Netzwerks für 10 Tage den gemeinsamen Austausch über wichtige europäische Themen. <br> Die 82. Internationale Sitzung ist nicht nur wegen ihres Ausmaßes und ihres Anspruchs auf breite Repräsentation der Jugend <strong>einzigartig</strong>, sondern auch durch ihr in mehrere Aktivitäten gegliedertes Thema. Im Juni 2016 wird <strong>Vielfalt</strong>, in allen Varianten, im Mittelpunkt stehen. Die 82. Internationalen Sitzung in Rennes wird 25% junge Europäer aufnehmen, die noch nie an einer EYP-Veranstaltung teilgenommen haben. Diese Teilnehmenden, egal ob berufstätig oder studierend, werden nach Kriterien, welche das Organisationsteam und die nationalen Vereine des EYP festlegen, ausgewählt. So wird das Zusammentreffen eines zukunftsweisenden und talentierten Publikums in Rennes gewährleistet. Zum ersten Mal im EYP gibt es eine <strong>dreisprachige Veranstaltung</strong> auf Englisch, Deutsch und Französisch. Kulturelle, kulinarische, politische, künstlerische Vielfalt usw… Alles wird getan, um das Motto der Europäischen Union, „In Vielfalt geeint“, zum Leben zu erwecken."
+    quote:
 
   counters:
     first:
@@ -52,7 +53,7 @@ de:
       email: Email
       subject:
       message:
-      submit: 
+      submit:
       validate: Bestätigen ????
       firstname: Vorname
     social: Folgen Sie uns über den sozialen Netzwerken!
