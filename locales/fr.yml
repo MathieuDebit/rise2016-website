@@ -24,26 +24,26 @@ fr:
     patronage: Sous le Haut Patronage de <br> Monsieur <strong>François HOLLANDE</strong> <br> Président de la République
     tabs:
       partner-1:
-        name: Partner 1
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Erasmus +
+        description: Le programme Erasmus + regroupe l’ensemble des actions de l’UE qui investissent dans l'éducation, la formation et la jeunesse pour une croissance durable, intelligente et inclusive. Le programme Erasmus + soutient la 82ème session internationale à travers une subvention allouée dans le cadre des objectifs clés du programme.
       partner-2:
-        name: Partner 2
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Parlement européen
+        description: Le Parlement Européen est l’organe parlementaire de l’Union Européenne. Malgré son nom, le Parlement Européen des Jeunes n’est pas directement mandaté par le Parlement Européen. Toutefois, l’association reçoit une reconnaissance institutionnelle de ses actions par le Parlement Européen.
       partner-3:
-        name: Partner 3
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Commission européenne
+        description: La Commission européenne est la branche exécutive de l’Union Européenne. C’est l’organe qui assure la gestion de l’allocation des financements de l’Union Européenne, notamment les subventions allouées à travers le programme Erasmus +.
       partner-4:
-        name: Partner 4
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Ministère de la Ville, de la Jeunesse et des Sports
+        description: Le ministère de la Ville, de la Jeunesse et des Sports fait partie des partenaires institutionnels de longue date du PEJ-France. C’est aussi à travers d’un financement régulier que le ministère assure le soutien des actions du Parlement Européen des Jeunes en France.
       partner-5:
-        name: Partner 5
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche
+        description: Le ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche fait partie des partenaires institutionnels de longue date du PEJ-France. C’est aussi à travers d’un financement régulier que le ministère assure le soutien des actions du Parlement Européen des Jeunes en France.
       partner-6:
-        name: Partner 6
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Ministère des Affaires étrangères et du Développement international
+        description: A travers le secrétariat d’Etat aux Affaires européennes, le ministère des Affaires étrangères et du Développement international fait partie des partenaires institutionnels de longue date du PEJ-France. C’est aussi à travers d’un financement régulier que le ministère assure le soutien des actions du Parlement Européen des Jeunes en France.
       partner-7:
-        name: Partner 7
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        name: Fondation Hippocrène
+        description: La Fondation Hippocrène est une fondation d'utilité publique dont la mission principale est de « Vivre l'Europe » en renforçant la cohésion entre les jeunes Européens. Ayant des objectifs similaires au PEJ-France, la fondation Hippocrène assure un soutien régulier des événements du Parlement Européen des Jeunes.
 
   contact:
     title: contact
