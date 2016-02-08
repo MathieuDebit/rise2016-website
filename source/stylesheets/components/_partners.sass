@@ -12,15 +12,17 @@
       display: flex
       flex-wrap: wrap
       justify-content: center
-      border-right: 1px solid $orange
       border-bottom: 0
+      @media (min-width: 1024px)
+        border-right: 1px solid $orange
 
       li
         display: inline-block
-        margin: 20px 15px
         filter: grayscale(100%)
         transition: filter 250ms ease-in-out
 
+        @media (min-width: 1024px)
+          margin: 20px 15px
         &.active, &:hover
           filter: grayscale(0%)
 
@@ -33,7 +35,9 @@
             cursor: pointer
 
           img
-            height: 60px
+            height: 30px
+            @media (min-width: 1024px)
+              height: 60px
 
     .tab-content
       padding-left: 2em
