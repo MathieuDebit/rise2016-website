@@ -11,7 +11,24 @@
     text-align: justify
     line-height: 23px
     margin-bottom: 40px
-  .president img
-    width: 100%
+  .president
+    @media (max-width: 768px)
+      margin-top: 123px
+    @media (max-width: 320px)
+      margin-top: 0
+    img
+      width: 100%
+  .quote
+    // display: flex
+    // justify-content: space-between
+    // width: 100%
+    // align-items: baseline
   blockquote
     margin-bottom: 0
+    @media(max-width:767px)
+      p
+        font-size: 12px
+        text-align: left
+  @media (max-width: 768px)
+    .blockquote-reverse
+      border-right: none
