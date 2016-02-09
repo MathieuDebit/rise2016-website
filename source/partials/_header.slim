@@ -4,9 +4,10 @@ header#header
       .logo
         img src= "../images/header-logo.gif"
       .lang
-        a href="http://rise2016.eu/en" en
-        a href="http://rise2016.eu/fr" fr
-        a href="http://rise2016.eu/de" de
+        - %w(en fr de).each do |l|
+          - if (I18n.locale != l)
+            a href="http://rise2016.eu/#{l}" #{l}
+
     .col-md-6.col-md-push-2.header-text
       h1.wow.slideInUp Rise
       h2.wow.slideInUp #{t('header.title')}
