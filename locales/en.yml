@@ -56,6 +56,7 @@ en:
       submit: Submit
       validate: Validate
       firstname: Firstname
+      response: Message sent!
     social: Find us on social media!
 
     footer:

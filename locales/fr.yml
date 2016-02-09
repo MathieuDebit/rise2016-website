@@ -55,6 +55,7 @@ fr:
       submit: Envoyer
       validate: Valider
       firstname: Prénom
+      response: Message envoyé !
     social: Retrouvez-nous sur les réseaux sociaux !
 
   footer:
