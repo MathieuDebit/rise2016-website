@@ -5,7 +5,7 @@
     $name = $_POST['name'];
     $subject = $_POST['subject'];;
     $message = "Message de " . $name . " : \n\n" . $_POST['message'];
-    $subject2 = "Copy of your form message for RISE 2016";
+    $subject2 = "Copy of your form message for RISE 2016 : " . $subject;
     $message2 = $name . ", here is a copy of your message for RISE 2016: \n\n" . $_POST['message'];
 
     $headers = "From:" . $from;

@@ -3,7 +3,10 @@ section#contact
     h2 #{t('contact.title')}
     
     .form.col-md-6.col-xs-12
-      form method='post' action='../contact-form.php'
+
+      .form-response
+
+      form
         .form-group
           input type="text" class="form-control" id="name" name="name" required="true" placeholder="#{t('contact.form.name')}"
         
@@ -16,7 +19,7 @@ section#contact
         .form-group
           textarea class="form-control" id="message" name="message" required="true" placeholder="#{t('contact.form.message')}" rows="7"
 
-        button type="submit" class="btn btn-primary pull-right" #{t('contact.form.submit')}
+        button type="submit" id="contact-submit" class="btn btn-primary pull-right" #{t('contact.form.submit')}
 
     
     .infos.col-md-6.col-xs-12
