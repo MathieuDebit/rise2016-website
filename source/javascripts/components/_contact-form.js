@@ -1,3 +1,5 @@
+$('.form-response').hide();
+
 $('#contact-submit').on('click', function(e){
   e.preventDefault();
 
@@ -5,8 +7,6 @@ $('#contact-submit').on('click', function(e){
   var email = $('#email').val();
   var subject = $('#subject').val();
   var message = $('#message').val();
-
-  console.log('data');
 
   $.ajax({
     method: "POST",
@@ -19,6 +19,10 @@ $('#contact-submit').on('click', function(e){
     }
   })
     .done(function(msg) {
-      $('.form-response').html(msg);
+      if (msg.sent) {
+        $('.form-response').show();
+        $('#subject').val('');
+        $('#message').val('');
+      };
     });
 });

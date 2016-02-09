@@ -1,4 +1,7 @@
 <?php
+  header('Content-Type: application/json');
+
+
   if(isset($_POST['email'])){
     $to = "info@rise2016.eu";
     $from = $_POST['email'];
@@ -12,6 +15,8 @@
     $headers2 = "From:" . $to;
     mail($to,$subject,$message,$headers);
     mail($from,$subject2,$message2,$headers2);
-    echo "Mail Sent! Thank you " . $name . ", we will contact you shortly.";
+
+    $response = array('sent' => true);
+    echo json_encode($response);
   }
 ?>
