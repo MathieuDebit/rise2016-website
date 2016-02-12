@@ -10,7 +10,7 @@ var win = $(window),
 
 win.scroll(sticky);
 
-$('.nav a').on('click', function(){
-    $('.btn-navbar').click();
-    $('.navbar-toggle').click();
+$('#nav a').on('click', function(){
+    $('#nav .btn-navbar').click();
+    $('#nav .navbar-toggle').click();
 });
