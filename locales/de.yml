@@ -7,8 +7,8 @@ de:
 
   nav:
     session: Die Sitzung
-    partners:
-    contact:
+    partners: Partner
+    contact: Kontakt
 
   session:
     title: Die Sitzung
@@ -17,7 +17,7 @@ de:
     quote_author: Präsidenten einer Internationalen Sitzung
 
   counters:
-    first:
+    first: -tägige Debatte
     second: Nationalitätent
     third: Arbeitssprachen
 
@@ -52,8 +52,8 @@ de:
     form:
       name: Name
       email: Email
-      subject:
-      message:
+      subject: Betreff
+      message: Ihre Nachricht
       submit:
       validate: Bestätigen ????
       firstname: Vorname
