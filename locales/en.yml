@@ -23,29 +23,29 @@ en:
 
   partners:
     title: our partners
-    patronage:
+    patronage: Under the High Patronage of <br> Mr <strong>François HOLLANDE</strong>, President of the French Republic
     tabs:
       partner-1:
-        name:
-        description:
+        name: Erasmus + 
+        description: The Erasmus + Programme gathers all EU actions which invest in education, training and youth for a sustainable, smart and inclusive growth. Erasmus + supports the 82nd International Session through a grant allocated in accordance to the key-aims of the Programme.
       partner-2:
-        name:
-        description:
+        name: The European Parliament 
+        description: "The European Parliament is the parliamentary body of the European Union. Despite its name, the European Youth Parliament is not directly mandated by the European Parliament. Nevertheless, the organisation's actions  receive an institutional recognition by the European Parliament."
       partner-3:
-        name:
-        description:
+        name: The European Commission
+        description: The European Commission is the executive branch of the European Union. It is the organ that manages the allocation of the European Union funds, notably the subsidies granted though the Erasmus+ programme.
       partner-4:
-        name:
-        description:
+        name: Ministry of Urban Affairs, Youth and Sport
+        description: The Ministry of Urban Affairs, Youth and Sport is one of the long-standing partner institutions of EYP France. Furthermore, it supports the actions of the European Youth Parliament in France via regular funding.
       partner-5:
-        name:
-        description:
+        name: Ministry of National Education, Higher Education and Research
+        description: The ministry of National Education, Higher Education and Research is one of the long-standing partner institutions of EYP France. Furthermore, it supports the actions of the European Youth Parliament in France via regular funding.
       partner-6:
-        name:
-        description:
+        name: Ministry of Foreign Affairs and International Development
+        description: Through the Secretary of State for European Affairs, the Ministry of Foreing Affairs and International Development is one of the long-standing partner institutions of EYP France. Furthermore, it supports the actions of the European Youth Parliament in France via regular funding.
       partner-7:
-        name:
-        description:
+        name: The Hippocrene Foundation
+        description: The Hippocrene Foundation is a public interest foundation whose main purpose is “to Live Europe” by developing stronger connections between young Europeans. Having similar objectives to those of EYP France, the Hippocrene Foundation provides regular support to the events of the European Youth Parliament.
 
   contact:
     title: contact
