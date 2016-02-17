@@ -22,8 +22,8 @@ de:
     third: Arbeitssprachen
 
   partners:
-    title:
-    patronage:
+    title: unsere Partner
+    patronage: Unter der Schirmherrschaft von <br> Herr <strong>François HOLLANDE</strong>, Präsident der Französischen Republik
     tabs:
       partner-1:
         name:
@@ -54,10 +54,10 @@ de:
       email: Email
       subject: Betreff
       message: Ihre Nachricht
-      submit:
-      validate: Bestätigen ????
+      submit: Senden
+      validate: Bestätigen
       firstname: Vorname
-      response:
+      response: Nachricht gesendet!
     social: Folgen Sie uns über den sozialen Netzwerken!
 
     footer:
