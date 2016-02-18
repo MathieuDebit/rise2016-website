@@ -4,6 +4,8 @@
 
 //= require_tree .
 
+$('.number').counterUp();
+
 // Logo animé
 $(function(){
     var image = new Image();
