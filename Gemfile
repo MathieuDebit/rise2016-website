@@ -11,6 +11,7 @@ gem 'middleman-minify-html'
 gem 'middleman-dotenv'
 gem 'jquery-middleman', '~> 3.1', '>= 3.1.2'
 gem 'middleman-autoprefixer'
+gem 'middleman-s3_sync', '~> 3.3', '>= 3.3.9'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-bootstrap'
