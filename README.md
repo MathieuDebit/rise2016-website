@@ -4,8 +4,7 @@ Website for the EYP's Rise 2016 event
 
 ## Getting started
 
-> You will need the [Middleman framework](https://middlemanapp.com) to run the source code.
-Make sure to install and configure it first.
+> This project is using Middleman 3.4.0. Learn more about this framework: [https://middlemanapp.com](https://middlemanapp.com)
 
 Clone the repo and install dependencies:
 
