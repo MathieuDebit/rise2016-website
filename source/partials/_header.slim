@@ -3,10 +3,10 @@ header#header
     .col-md-12.top_bar
       .logo
         img src= "../images/header-logo.gif"
-      //.lang
-      //  - %w(en fr de).each do |l|
-      //    - if (I18n.locale != l)
-      //      a href="http://rise2016.eu/#{l}" #{l}
+      .lang
+        - %w(en fr de).each do |l|
+          - if (I18n.locale.to_s != l)
+            a href="http://rise2016.eu/#{l}" #{l}
 
     .col-md-6.col-md-push-2.header-text
       h1.wow.slideInUp Rise 2016
