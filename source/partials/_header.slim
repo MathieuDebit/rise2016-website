@@ -6,7 +6,7 @@ header#header
       .lang
         - %w(en fr de).each do |l|
           - if (I18n.locale.to_s != l)
-            a href="http://rise2016.eu/#{l}" #{l}
+            a href="/#{l}" #{l}
 
     .col-md-6.col-md-push-2.header-text
       h1.wow.slideInUp Rise 2016
