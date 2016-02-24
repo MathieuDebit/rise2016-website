@@ -3,7 +3,7 @@ section#session
     h2 #{t('session.title')}
     .col-md-8.col-md-push-2
       .video
-        iframe allowfullscreen="" frameborder="0" height="411" mozallowfullscreen="" src="https://player.vimeo.com/video/138131933?color=e7983e&byline=0&portrait=0" webkitallowfullscreen="" width="100%" 
+        iframe allowfullscreen="" frameborder="0" height="411" mozallowfullscreen="" src="https://player.vimeo.com/video/#{t('session.video_id')}?color=e7983e&byline=0&portrait=0" webkitallowfullscreen="" width="100%"
     .content.col-md-6.col-xs-12.col-md-push-3
       markdown: #{t('session.content')}
     .clearfix
