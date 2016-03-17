@@ -2,84 +2,100 @@
 fr:
   session:
     intro: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      La Bretagne a l’honneur d’accueillir du 14 au 23 juillet 2016 la 82ème Session internationale. Territoire de caractère et d’histoire, la Bretagne est aussi une terre d’initiative ouverte sur l’international et  l’Europe.
 
     place1:
       date: 14 Juillet
-      title: Ecole Nationale de Police
+      title: Soirée de bienvenue
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Le 14 juillet est le jour de la Fête Nationale en France et celui de l’arrivée des délégués. La soirée de bienvenue aura pour thème la découverte de la culture et de la gastronomie bretonne. Les participants pourront profiter du feu d’artifice dans le cadre exceptionnel de Saint-Malo.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        L’Ecole Nationale de Police sera le lieu d’hébergement des participants de la 82ème Session Internationale. Lieu symbolique, l’école est située a proximité immédiate de la plage et du centre-ville de Saint-Malo.
 
     place2:
       date: 15 et 16 Juillet
-      title: Saint-Malo
+      title: Teambuilding
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Dans le cadre du teambuilding les participants découvriront les secrets de Saint-Malo. A 5min du lieu d’hébergement se trouve la plage du Sillon, avec ses 3 kimomètres de sable blanc c’est l’une des plus belles plages de France. Construits par Vauban, les remparts de la Ville offriront de l’ombre et des points de vue d’exception sur les nombreux forts et îles qui entourent Saint-Malo. La vieille ville avec son patrimoine historique permettra aux participants d’en savoir plus sur la riche histoire de Saint-Malo en voyageant dans le temps.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Cette première partie de la session se déroulera dans un cadre d’exception. La ville de Saint-Malo accueillera les deux journées de teambuilding où les participants pourront découvrir le patrimoine riche d’une ville ancrée dans l’histoire nationale et ouverte sur l’international.
 
     place3:
-      date: 17 Juillet
-      title: Saint-Vincent Providence
+      date: 15 et 16 Juillet
+      title: Eurovillage
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        La diversité culinaire et la découverte culturelle est chère à notre association. Nous l’exercerons avec un village européen composé des spécialités culinaires provenant des pays de chaque participant, permettant des échanges interculturels forts avec des méthodes d’éducation non formelle, et sans contrainte académique.
 
     place4:
       date: 17 Juillet
-      title: Centre Ville de Rennes
+      title: Travail en commission
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Sur le modèle du Parlement européen, pendant 3 jours les délégués travaillent en commission sur des thématiques d’actualité européennes pour proposer des résolutions parlementaires. Les commissions (emploi, affaires monétaires ou encore droits des femmes) sont celles Par­lement européen. Des experts internationaux apporteront également leur éclairage sur les grands enjeux de notre temps.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Le travail en commission aura lieu au lycée Saint-Vincent Providence, à Rennes. Cet établissement d’enseignement participe à l’aventure du Parlement Européen des Jeunes depuis de nombreuses années. Situé dans un bâtiment historique, le lycée Saint-Vincent de Providence offre un cadre d’exception pour travailler et vivre pendant la Session Internationale. Les participants pourront découvrir la riche histoire de ces lieux qui a contribué à l’éducation de plusieurs dizaines de générations.
 
     place5:
-      date: 18 et 19 Juillet
-      title: Saint-Vincent Providence
+      date: 17 Juillet
+      title: Dîner en commission
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Lors d’un dîner au restaurant, les présidents de commission et les délégués se retrouveront pour partager leurs impressions et apprendre à mieux se connaître autour d’un bon repas. Les restaurants rennais sont réputés pour leur diversité, de la traditionnelle créperie au bistrot en passant par la cuisine du monde.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Les rues étroites et sinueuses, offriront un cadre de charme à cette soirée que les participants pourront passer en terrasse pour profiter de la douceur du soir.
+        <br/><br/>
+        Après le diner, les participants pourront profiter du festival gratuit Quartier d’Et. A mi-chemin entre musiques du monde et cultures urbaines, ce festival rassemble en soirée de jeunes talents et des artistes de renom.
 
     place6:
-      date: 19 Juillet
-      title: Rennes
+      date: 17 Juillet
+      title: Euroconcert
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Pour honorer la diversité musicale et artistique des différentes provenances des participants, un concert européen sera organisé. Chaque participant pourra ainsi se produire, avec pour seule contrainte que sa performance soit réalisée dans sa langue nationale. Les spectateurs pourront aussi découvrir des groupes rennais de musique avec la programmation d’un groupe de musique traditionnelle et d’un groupe de musique urbaine.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Cette soirée sera ouverte au grand public.
 
     place7:
-      date: 20 Juillet
-      title: Sciences Po Rennes
+      date: 17 Juillet
+      title: Cérémonie d'Ouverture
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Moment officiel de la Session internationale pendant lequel les décideurs politiques (Ministres, Commissaires ou Députés européens, élus locaux) ainsi que les partenaires de l’événement pourront intervenir devant l’intégralité des participants, cette cérémonie sera l’occasion d’échanger sur les enjeux européens d’aujourd’hui.
 
     place8:
-      date: 20 Juillet
-      title: Saint-Vincent Providence
+      date: 18 et 19 Juillet
+      title: Visite de Rennes
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Lors d’une visite de Rennes les participants pourront découvrir à travers différents parcours thématiques toute la richesse patrimoniale, culturelle, historique et architecturale de la ville. Des échanges autour des lieux visités entre les participants permettront de rendre la visite véritablement interactive. Les différentes trajectoires historiques des villes, des régions et des pays d’Europe pourront être comparées, rapprochées.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Cette visite de Rennes participative et interactive permettra d’enrichir notre connaissance de l’histoire de l’Europe et de  développer le dialogue et la compréhension culturelle.
 
     place9:
-      date: 21 et 22 Juillet
-      title: Hotel de Rennes Métropôle
+      date: 19 Juillet
+      title: Conférences thématiques
       text: |
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         <br/><br/>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
     place10:
-      date: 22 Juillet
-      title: Salle de la Cité, Rennes
+      date: 20 Juillet
+      title: Préparation à l’assemblée générale
       text: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Dans la continuité du travail en commission, un temps est alloué à la préparation des échanges en plénière. Au programme sont rédaction d’interventions orales, consolidation des arguments et recherche de renseignements sur les résolutions des autres commissions.
+
+    place11:
+      date: 20 Juillet
+      title: Assemblée générale
+      text: |
+        Pendant deux jours, les résolutions des 15 commissions seront débattues puis votées par l’ensemble de participants lors de l’Assemblée générale. Temps fort de l’événement, les débats de la Session internationale seront traduits en anglais, en allemand et en français. Cet élément du programme sera ouvert au grand public et retransmis en direct sur internet.
         <br/><br/>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        L’assemblée générale de la 82ème Session internationale se déroulera dans la salle du Conseil de Rennes Métropole dans un cadre parlementaire. L’Hôtel d’Agglomération est un batiment neuf et moderne qui symbolise la coopération métropolitaine. Situé dans un secteur en renouvellement urbain, il est desservi par le métro.
+
+    place12:
+      date: 20 Juillet
+      title: Cérémonie de clôture
+      text: |
+        Tout comme la cérémonie d’ouverture c’est un moment officiel de la Session internationale pendant lequel les décideurs politiques (Ministres, Commissaires ou Députés européens, élus locaux) ainsi que les partenaires de l’événement pourront intervenir devant l’intégralité des participants, cette cérémonie sera l’occasion de revenir sur les propositions des commissions à la fin de l’événement.
+
+    place13:
+      date: 20 Juillet
+      title: Soirée de départ
+      text: |
+        Après dix jours de débats et d’échanges intenses, cette soirée marquera la fin de la session dans un cadre convivial. La soirée aura lieu à Rennes dans la Salle de la Cité. Construite en 1925, la Salle de la Cité était un haut lieu du mouvement ouvrier. Espace de démocratisation des loisirs et de la culture, la salle abrite désormais des concerts de renom.
